@@ -1,0 +1,2 @@
+(define (max x y) (if (x < y) y x))
+;; (max 1 2)
